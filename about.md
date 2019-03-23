@@ -16,4 +16,4 @@ On February 21, 2019, Anibal proposed to Susan in the Alhambra palace in Granada
 
 <br/>
 
-![desk](/images/susan_and_anibal_1.jpg)
+![desk]({{site.baseurl}}/images/susan_and_anibal_1.jpg)
