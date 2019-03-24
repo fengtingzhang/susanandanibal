@@ -15,6 +15,7 @@ Despite being an old city, it has a very young and vibrant atmosphere. Every yea
 
 Salamanca is easily accessible from Madrid. If you come from abroad, there is a bus that can take you there directly from Madrid’s airport and takes around two and a half hours. It is also possible to get there by train, which takes only one hour and half if you take the express train.
 
+<br/>
 
 <div style="-webkit-filter: grayscale(100%);filter: grayscale(100%);">
   <iframe width="100%" height="300px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Salamanca,+Spain&amp;aq=0&amp;oq=madursi&amp;ie=UTF8&amp;hq=&amp;hnear=Salamanca,+Spain&amp;t=m&amp;z=12&amp;output=embed"></iframe>
