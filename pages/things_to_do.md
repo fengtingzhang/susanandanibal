@@ -5,9 +5,7 @@ permalink: /location/
 tags: location
 ---
 
-<h3>Things to do</h3>
-
-<h4>The city of Salamanca</h4>
+<h3>The city of Salamanca</h3>
 
 The celebration will take place in Salamanca, a small city located in the West part of Spain, declared a UNESCO World Heritage Site in 1988 due to its historical significance.
 
@@ -15,7 +13,7 @@ Its university, which recently celebrated its 800th anniversary, is one of the o
 
 But don’t let its history deceive you, despite being an old city, it has a young and vibrant atmosphere. Every year, the university attracts thousands of students, not only from Spain, but also from around the world. There is also a great number of bars and restaurants frequented by both locals and visitors where you will have the opportunity to savor the local gastronomy, including a great selection of tapas and wine.
 
-<h4>Nearby places</h4>
+<h3>Nearby places</h3>
 
 There are plenty of places worth visiting near Salamanca. Below we include some suggestions:
 
