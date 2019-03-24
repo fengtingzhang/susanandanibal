@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Location
+title: Things to do
 permalink: /location/
 tags: location
 ---
