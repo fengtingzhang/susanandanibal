@@ -4,7 +4,7 @@ email:       info@fengtingzhang.com
 author:      Susan Zhang
 description: "A website for Susan and Anibal's wedding"
 baseurl:     "/susanandanibal"
-url:         "http://susanandanibal.com"
+url:         "http://pixyll.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
