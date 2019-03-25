@@ -24,6 +24,11 @@
   color: #333;
 }
 
+.post-header {
+  text-align: center;
+  font-family: $romantic-font-family;
+}
+
 .post-footer {
   @extend .italic;
 
@@ -55,6 +60,7 @@
   list-style-type: none;
   width: 84%;
   margin-left: 5.5%;
+  margin-bottom: 5em;
 }
 
 .lightbox_thumbnail a {
