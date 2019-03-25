@@ -8,8 +8,9 @@ url:         "http://pixyll.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - pages/our_story.md
- - pages/pictures.md
+ - pages/schedule.md
  - pages/things_to_do.md
+ - pages/pictures.md
  - pages/contact.html
 
 # Google services
