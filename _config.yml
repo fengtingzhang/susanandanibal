@@ -100,7 +100,7 @@ text:
     minute_read:    'minute read'
     related_posts:  'Related Posts'
   index:
-    coming_soon: 'Coming soon...'
+    headline: "We're getting married!"
   contact:
     email:    'Email Address'
     content:  'Any special requests'

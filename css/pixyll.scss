@@ -34,3 +34,17 @@
 @import 'gists';
 @import 'measure';
 @import 'pagination';
+
+.home {
+  background-image: url('/susanandanibal/images/susan_and_anibal_home.jpg');
+  height: 26em;
+  background-size: 100% 100%;
+  color: white;
+  margin-top: -3em;
+  margin-left: -15em;
+  margin-right: -15em;
+}
+
+.home .center {
+  padding-top: 4em;
+}
