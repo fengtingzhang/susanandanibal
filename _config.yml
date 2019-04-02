@@ -101,6 +101,7 @@ text:
     related_posts:  'Related Posts'
   index:
     headline: "We're getting married!"
+    location: 'Salamanca, Spain'
   contact:
     email:    'Email Address'
     content:  'Any special requests'
